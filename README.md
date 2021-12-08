@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![](https://hit.yhype.me/github/profile?user_id=15975922)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=fauzipadlaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fauzipadlaw?tab=overview)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fauzipadlaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzipadlaw&layout=compact&theme=dark)](https://github.com/termuxhackers-id/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzipadlaw&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
