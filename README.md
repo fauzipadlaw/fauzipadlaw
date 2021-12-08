@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![](https://komarev.com/ghpvc/?username=fauzipadlaw)
-
 ![](https://hit.yhype.me/github/profile?user_id=15975922)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=fauzipadlaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
