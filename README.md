@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=fauzipadlaw)
 
 ![](https://hit.yhype.me/github/profile?user_id=15975922)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=fauzipadlaw&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/fauzipadlaw/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fauzipadlaw&layout=compact&theme=dark)](https://github.com/termuxhackers-id/github-readme-stats)
+
